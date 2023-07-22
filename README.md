@@ -1,6 +1,6 @@
 # ADGUARDHOME - Network-wide DNS sinkhole
 *A user guide to setup adguardhome as network-wide DNS server for dummies...*
-
+![Adguardhome](/assets/adguardhome.png)
 ## **What is a DNS sinkhole?**
 ![Security guard](https://media.tenor.com/Q3U3NP4AJ54AAAAC/ziekenhuisbal-steward.gif)
 
